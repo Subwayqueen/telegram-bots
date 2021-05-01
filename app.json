@@ -1,0 +1,13 @@
+{
+ "name": "Kick-Members-Bot",
+ "description": "Telegram-Group-Member Kicker",
+ "logo": "https://telegra.ph/file/380a2fc4adc4b430e4979.png",
+ "keywords": [
+   "telegram",
+   "KickMembers"
+  ],
+ "repository": "https://github.com/SubwayQueen/telegram-bots",
+ "env": {
+  }
+ }
+}
